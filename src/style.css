@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(90deg,#E1A2B8, #9F2BC1);
+    text-align: center;
+}
+
+h1{
+    color:whitesmoke;
+}
+
+.button{
+    background-color: #46B2E0;
+    color: whitesmoke;
+    text-align: center;
+    text-decoration: solid;
+    padding: 10px 30px;
+}
